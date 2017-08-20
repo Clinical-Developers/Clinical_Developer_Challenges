@@ -1,0 +1,6 @@
+agent name,num. calls handled ,num. calls unanswered ,avg. call time ,total talk time ,total staffed time
+Reception L1,67,67,00:03:10,02:31:10,24:00:00
+Back Office3,50,32,00:02:45,01:42:50,24:00:00
+Reception Desk,53,30,00:02:52,01:53:45,24:00:00
+Back Office1,23,7,00:01:59,00:38:36,24:00:00
+,193,136,,,
