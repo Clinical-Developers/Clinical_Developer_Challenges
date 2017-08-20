@@ -2,7 +2,7 @@
 
 # Phone Call Challenge #
 
-Another challenge brought to you by the Clinical Developer's Club [Facebook Page](https://www.facebook.com/groups/257859457974818/)
+Another challenge brought to you by the Clinical Developer's Club [Facebook Page](https://www.facebook.com/groups/257859457974818/) - This one by our esteemed member Jeremy Thornton also known as @ifknot - https://github.com/ifknot
 
 ### Introduction ###
 
