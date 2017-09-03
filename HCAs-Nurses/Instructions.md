@@ -1,6 +1,6 @@
 # Challenge: week beginning 27/8/17:
 
-##This is a clinical variation on a popular programming puzzle:
+This is a clinical variation on a popular programming puzzle:
 
 Anyonymous General has a problem. They know they need to staff their hospital with the appropriate number of nurses and HCA's.
 
