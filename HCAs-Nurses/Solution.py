@@ -1,5 +1,5 @@
 # This is a maths problem not primarily a progamming one.
-# As such:
+# As such the solution function call might look like this:
 
 def staffing(staff_units, patients):
     HCA, nurse = 2*staff_units-patients/2, patients/2-staff_units
