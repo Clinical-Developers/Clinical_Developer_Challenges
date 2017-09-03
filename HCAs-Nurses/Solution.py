@@ -1,5 +1,5 @@
 # This is a maths problem not primarily a progamming one.
-# As such the solution function call might look like this:
+# As such the solution function call might look like this: This is probably the most compact/clever way to express it in Python.
 
 def staffing(staff_units, patients):
     HCA, nurse = 2*staff_units-patients/2, patients/2-staff_units
@@ -22,7 +22,7 @@ y = s-x
 since you know that s-x must leave only remainder y. If it doesn't then you have a problem and the equation can't be solved!
 '''
 
-# Programmatically this can be more clearly be expressed as:
+# Programmatically this can be more clearly be expressed as: (This is my preferred option as it is much easier to read)
 
 def staffing(staff_units, patients):
     HCA = 2*staff_units-patients/2
