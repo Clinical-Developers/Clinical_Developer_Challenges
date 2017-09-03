@@ -6,7 +6,7 @@ This may seem like a game, but in reality it is a fight for survival. You are gi
 
 You are working from home as this is where you have your system set up, and the national body has charged you to solve this problem for them.
 </p>
-<h5> You will be fed 'arrays' that central healthcare control has designed for you to assess </h5>
+<em> You will be fed 'arrays' that central healthcare control has designed for you to assess </em>
 
 Within these arrays are contained the stats on the performance of each emergency department.
 
