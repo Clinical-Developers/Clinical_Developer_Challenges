@@ -1,6 +1,6 @@
 # Here are the Submissions and their marks for the week
 
-Note: the present submissions are currently being edited - apologies for the not great instructions. 
+<h4> Note: the present submissions are currently being edited - apologies for the not great instructions! The comp is still open one more day!. </h4>
 
 <ol>
 <li>Jeremy Thornton: http://cpp.sh/3r6s7 </li>
