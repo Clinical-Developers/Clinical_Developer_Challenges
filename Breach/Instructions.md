@@ -32,6 +32,6 @@ To complete this level your function has to take in messy arrays, clean them and
 <h5> Level Three </h5>
 To complete Level Three, your function needs to handle two-dimensional or 'nested' arrays as well: <b> [['sAfe', 'BreaCh', ['SAFE', 'sAfe'], ['bReach']] </b>
 
-I could take this further but I'll leave it there for now (if someone is a real smartypants and solves it in a day I might give them a level 4 mwahahaha.)
-
+<p>I could take this further but I'll leave it there for now (if someone is a real smartypants and solves it in a day I might give them a level 4 mwahahaha.)
+</p>
 <h3> You can do it Clinician Programmer! </h3>
