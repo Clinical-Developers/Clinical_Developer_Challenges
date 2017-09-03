@@ -14,10 +14,24 @@ They will be in the form of an array or list as below in the Python example:
 </p>
 <b> ['safe', 'breach', 'safe', 'safe', 'breach'] </b>
 
-<h2> The Rules <h2>
+<h2> The Rules </h2>
 <ol>
   <li>If a hospital has no breaches at all it is to be labelled as: <b> 'Safe' </b></li>
   <li>If a hospital has 1 to 3 they are to be labelled as: <b> 'Trouble' </b></li>
   <li>If a hospital has over 3 breaches they are to be labelled as: <b> 'Urgent Inspection' </b></li>
 </ol>
 
+<h3> Challenge Levels </h3>
+
+<h5> Level One </h5>
+To complete this level your function just has to take in clean arrays: <b> ['safe', 'breach', 'safe', 'safe', 'breach'] </b> and return the answer - job done.
+
+<h5> Level Two </h5>
+To complete this level your function has to take in messy arrays, clean them and return a result: <b> ['sAfe', 'BreaCh', 'SAFE', 'sAfe', 'bReach'] </b> # For the sake of simplicity the words will always be 'safe' or 'BREACH'.
+
+<h5> Level Three </h5>
+To complete Level Three, your function needs to handle two-dimensional or 'nested' arrays as well: <b> [['sAfe', 'BreaCh', ['SAFE', 'sAfe'], ['bReach']] </b>
+
+I could take this further but I'll leave it there for now (if someone is a real smartypants and solves it in a day I might give them a level 4 mwahahaha.)
+
+<h3> You can do it Clinician Programmer! </h3>
