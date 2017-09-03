@@ -38,3 +38,12 @@ I could take this further but I'll leave it there for now (if someone is a real 
 </p>
 
 <h3> You can do it Clinician Programmer! </h3>
+<br></br>
+Here are your test cases: (Note your programs will be tested against a lot more hidden ones, but this will get you started.):
+<ul>
+  
+  <li>['safe', 'safe, 'safe', 'safe', 'safe', 'safe', 'safe'] </li>- Should return 'Safe'
+  <li>['safe', 'breach', 'safe', 'safe', 'breach'] </li>- Should return 'Trouble'
+  <li>['safe', 'breach', 'safe', 'safe', 'breach', 'safe', 'safe', 'breach'] </li>- Should return 'Urgent Inspection'
+  
+</ul>
