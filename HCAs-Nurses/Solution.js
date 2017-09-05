@@ -1,7 +1,6 @@
 function staffing(staff_units, patients) {
   const nurses = patients / 2 - staff_units;
   const hca = staff_units - nurses;
-  
   if (patients & 1 || hca > staff_units || nurses > staff_units)
     return "This hospital is in Trouble";
   else
