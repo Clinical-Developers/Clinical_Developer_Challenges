@@ -8,7 +8,7 @@ You are working from home as this is where you have your system set up, and the 
 </p>
 <h4><em> You will be fed 'arrays' that central healthcare control has designed for you to assess so they can work out which hospitals to inspect!</em></h4>
 <p>
-Within these arrays are contained the stats on the performance of each emergency department. A 'Breach' in this case, is when a patient had to wait over 12 hours to be assessed in ED.
+Within these arrays are contained the stats on the performance of each emergency department each day of the week. A 'Breach' in this case, is when a patient had to wait over 12 hours to be assessed in ED.
 
 They will be in the form of an array or list as below in the Python example:
 </p>
