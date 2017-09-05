@@ -43,6 +43,6 @@ Here are your test cases: (Note your programs will be tested against a lot more 
   
   <li>['safe', 'safe, 'safe', 'safe', 'safe', 'safe', 'safe'] </li>- Should return 'Safe'
   <li>['safe', 'breach', 'safe', 'safe', 'breach'] </li>- Should return 'Trouble'
-  <li>['safe', 'breach', 'safe', 'safe', 'breach', 'safe', 'safe', 'breach'] </li>- Should return 'Urgent Inspection'
+  <li>['safe', 'breach', 'safe', 'safe', 'breach', 'safe', 'breach', 'breach'] </li>- Should return 'Urgent Inspection'
   
 </ul>
