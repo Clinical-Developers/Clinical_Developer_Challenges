@@ -1,4 +1,4 @@
-# Here are the Submissions and their marks for the week
+# Here are the Submissions
 
 <h4> Note: the present submissions are currently being edited - apologies for the not great instructions! The comp is still open one more day!. </h4>
 
