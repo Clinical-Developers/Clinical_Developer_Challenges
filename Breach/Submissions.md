@@ -5,7 +5,7 @@
 <li>Then we have this one by Stefan Mitrosinovic: https://github.com/Darkbladecr/ClinDev-breach?fref=gc&dti=257859457974818 </li>
 <li>Then we have this one by Peter De Souza: https://github.com/pd6569/GameOfBreach </li>
 <li>Then we have this one by Adam Morley: https://repl.it/Kshk/13 - if you put it in a repo Adam I will link it</li>
-<li>And a late entry by Adam Figgins: https://github.com/Issafalcon/Clinical-Developers-Club-Breach - This one can be deployed locally.</li>
+<li>And a late entry by Adam Figgins: https://github.com/Issafalcon/Clinical-Developers-Club-Breach - This one can be deployed locally or you can see the video of the frontend on the facebook group.</li>
 </ol>
 
 <h4> Ok so let's put them all through their paces:</h4>
