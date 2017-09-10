@@ -1,4 +1,4 @@
-Right ok so we have 4 submissions this week:
+<h3>Right ok so we have 4 submissions this week:</h3>
 
 <ol>
 <li>First up is this bad-boy from Gregory Horne: https://gitlab.com/gregorydhorne/hospital-emergency-department-breach-status </li>
