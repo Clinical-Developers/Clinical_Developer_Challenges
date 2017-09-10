@@ -8,3 +8,9 @@ Right ok so we have 4 submissions this week:
 </ol>
 
 Ok so let's put them all through their paces:
+<ol>
+<li>Gregory Horne: https://gitlab.com/gregorydhorne/hospital-emergency-department-breach-status </li>
+<li>Stefan Mitrosinovic: https://github.com/Darkbladecr/ClinDev-breach?fref=gc&dti=257859457974818 </li>
+<li>Peter De Souza: https://github.com/pd6569/GameOfBreach </li>
+<li>Adam Morley: https://repl.it/Kshk/20</li>
+</ol>
