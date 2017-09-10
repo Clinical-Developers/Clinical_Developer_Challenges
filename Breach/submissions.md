@@ -12,5 +12,5 @@
 <li>Gregory Horne: https://gitlab.com/gregorydhorne/hospital-emergency-department-breach-status </li>
 <li>Stefan Mitrosinovic: https://github.com/Darkbladecr/ClinDev-breach?fref=gc&dti=257859457974818 </li>
 <li>Peter De Souza: https://github.com/pd6569/GameOfBreach </li>
-<li>Adam Morley: https://repl.it/Kshk/20</li>
+<li>Adam Morley: https://repl.it/Kshk/20 - so this one works fine ;) that is until I add in Peter's evil messy array that is [note this was outside the scope of the challenge]</li>
 </ol>
