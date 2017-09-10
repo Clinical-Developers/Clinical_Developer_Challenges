@@ -38,3 +38,9 @@ console.log(test(array12));
 console.log(test(array13));
 console.log(test(array14));
 console.log(test(array15));
+
+// level 4 - really nasted nested messy array provided by Peter ;-)
+
+var array16 = ['safe', [[['SAFE', 'breach'], 'SAFE', 'breach'], 'SAFE', 'breach'], ['safE', 'breach', 'SafE', 'BREAch'], 'breach', 'safe', 'safe', 'breach', 'BreACH', 'BREach', 'SafE', [[['SAFE', 'breach'], 'SAFE', 'breach'], 'SAFE', ['SAFE', ['SAFE', 'breach'], 'breach'], 'breach', ['SAFE', ['SAFE', ['SAFE', 'breach'], 'breach'], 'breach']]]; // definitely an Urgent inspection here
+
+console.log(test(array16));
